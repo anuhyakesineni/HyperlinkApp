@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HyperlinkApp</string>
+    <string name="hyperlink"><a href="https://learntodroid.com/how-to-create-a-hyperlink-using-android-textview/">LearnToDroid.com</a></string>
+</resources>
